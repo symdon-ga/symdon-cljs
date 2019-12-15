@@ -1,0 +1,1 @@
+run: clj --main cljs.main --compile symdon-cljs.core --repl
